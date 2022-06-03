@@ -1,7 +1,7 @@
 # Jekyll configuration
 
-name: 記憶の川
-description: Cat.
+name: '記憶の川'
+description: 'Cat.'
 
 # Url is currently only used only for the RSS feed in feed.xml
 url: https://sanjuroku.github.io/
